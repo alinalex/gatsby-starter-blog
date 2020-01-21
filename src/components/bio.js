@@ -54,10 +54,10 @@ const Bio = () => {
         }}
       />
       <p>
-        Written by <strong>{author}</strong> is a self-taught web developer. Creator of content for demystifying and teaching AI.
+        Hi <span role="img" aria-label="wave">👋</span>. I'm a self-taught web developer and creator of content for demystifying &amp; teaching Artificial Intelligence.
         {` `}
         <a href={`https://twitter.com/${social.twitter}`}>
-          You should follow him on Twitter
+          You can follow me on Twitter
         </a>
       </p>
     </div>
