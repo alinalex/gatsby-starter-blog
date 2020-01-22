@@ -7,13 +7,14 @@ description: >-
   AI is already here and it's influencing your life. Learn why AI is the new
   electricity.
 ---
-##Intro
+\##Intro \
+\
 Artificial intelligence (AI) needs mostly two things to work its magic: data and computing power. Since the beginning of the 21st century we’ve been amassing an astonishing amount of data and we definitely we are not slowing down the pace. According to a report from [DOMO](https://www.domo.com/solution/data-never-sleeps-6) “over 2.5 quintillion bytes of data are created every single day, and it’s only going to grow from there. By 2020, it’s estimated that 1.7MB of data will be created every second for every person on earth.” That’s really hard to fathom.
 
 Regarding computing power, Moore’s law is still standing and we’ve been seeing faster computers every year. If you add on top of that algorithmic improvements then is no wonder that AI started to yield great results. A significant milestone in the development of AI is the triumph of AlphaGo (a computer program that plays the board game Go) in 2017 against Ke Jie (who at the time continuously held the world No 1 ranking for two years).
 
-
-##Real world examples of AI
+\##Real world examples of AI \
+\
 Now, let’s get down to some real world applications of AI that is already influencing our lives. **Self-driving cars** are a leading example of AI in practice that requires a combination search and planning to find the best route from A to B, computer vision to “see” what’s happening around the vehicle and decision making under uncertainty to cope with the complex and dynamic environment. Tesla motors is at the forefront of self-driving technology development and its founder, Elon Musk, said in April 2019 that we can expect this year a robo-taxi program(a car with no human driver that it drives itself). Other examples of autonomous systems are delivery robots, flying drones and autonomous ships.
 
 The main impact of self-driving cars that I see is the improving of road safety. Eventually, the AI behind self-driving cars will become better than humans and a lot of human lives will be saved. Besides that, drivers will gain time since they won’t have to pay attention to traffic and commuting will stop being just a waste of time and nerves. Let’s not forget the potential efficiency increase of logistics chains when transporting goods.
@@ -24,17 +25,19 @@ Unlocking your smartphone based on face recognition is becoming the norm, nothin
 
 Also, another use I could see for AI is the prevention of Australia wildfires through image processing. Using satellite or drones images to feed an AI we can assess the smallest possibility of bursting a fire and alert authorities, so they can prevent the fire expansion. I don’t know if that would solve it, but I think AI can help in these kind of situations. But, in the same manner as content recommendation people make their own choice if they use AI for good or for evil. Being able to use AI in order to generate or alter visual content can lead to creation of fake videos that we can’t distinguish from reality. This is called [deepfake](https://en.wikipedia.org/wiki/Deepfake) and is media that take a person in an existing image or video and replace them with someone else’s likeness using artificial neural networks.
 
-##China has a plan
+\##China has a plan \
+\
 From these few example we can notice how AI is starting to power more and more activities performed by humans, but also coming up with new ones that can’t be done by a person. This insight is not foreign for the powerful states of the world and [The State Council of China](https://futureoflife.org/ai-policy-china/) released in 2017 the “New Generation Artificial Intelligence Development Plan” that outlines China’s strategy to build a domestic AI industry worth nearly US$150 billion in the next few years and to become the leading AI power by 2030. As we can see in a [PBS documentary](https://www.pbs.org/wgbh/frontline/film/in-the-age-of-ai/), in China AI is already used in:
-- self-driving cars
-- drones delivery in rural areas
-- algorithm for loan applications
-- shopping based on facial recognition
-- cities to discourage jay walking or discover signs of civil unrest
+
+* self-driving cars
+* drones delivery in rural areas
+* algorithm for loan applications
+* shopping based on facial recognition
+* cities to discourage jay walking or discover signs of civil unrest
 
 In its quest of AI supremacy, China is heading towards a surveillance state where cameras are watching you at every street corner. This situation rises questions and debates such as “protection at the expense of privacy”. We are being told that our data is collected for our own good: to get personalised content, tailored just for us and for our protection. Is this really how the way things are? That’s not a simple Yes/No question and this is why we have to educate ourselves on AI and the impact it’s already having in our life. Like in every aspect there are pessimists and optimists. The truth is probably in the middle, but we have to be informed about the subject before having our own opinion. Otherwise, we’ll just become another brick in the wall.
 
-##Conclusion
+\##Conclusion
 
 AI has the potential to change and improve our lives the same way electricity did in the 20th century. It helps us to diagnose diseases (sometimes better than humans do), drive us wherever we want or clean our house. AI can perform repetitive tasks, so we don’t have to and instead devout our time to more creative pursuits. I’m an optimist and I truly believe AI is going to enhance our capabilities and help everybody create wealth.
 
