@@ -7,8 +7,6 @@ description: >-
   Thinking about learning how to program? Read this article and find out three
   things every beginner in programming should know
 ---
-![Three things every beginner in programming should know](/static/images/uploads/1_FYYeO7ZaS9bqe0D29vF5XA.jpeg "Three things every beginner in programming should know")
-
 As a self-starter in the programming realm I am trying to practice, watch and read related content as much as possible, but one particular book made an impression on me even though I read just the first chapter. The book is called “The Pragmatic Programmer” by Andrew Hunt and David Thomas and here is the first thing I learnt from the book:
 
 #### **1. Programming is a craft.**
